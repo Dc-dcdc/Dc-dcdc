@@ -11,7 +11,7 @@
       <div align="center">
       <!-- <b>📊 GitHub Stats</b> -->
       <!-- <br> -->
-      <img src="https://github-stats-alpha.vercel.app/api?username=Dc-dcdc&cc=000&tc=fff&ic=fff&bc=000" alt="Stats" width="98%">
+      <img src="https://github-stats-alpha.vercel.app/api?username=Dc-dcdc&cc=000&tc=fff&ic=fff&bc=000" alt="Stats" width="99%">
       <p align="centre">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="49%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dc-dcdc&theme=tokyonight" width="49%">
