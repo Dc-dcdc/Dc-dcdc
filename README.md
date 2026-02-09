@@ -13,8 +13,8 @@
       <!-- <br> -->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dc-dcdc&theme=tokyonight" width="100%">
       <p align="centre">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dc-dcdc&theme=tokyonight" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="48%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dc-dcdc&theme=tokyonight" width="48%">
       </p>
       </div>
       <!-- <p>
