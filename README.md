@@ -12,8 +12,9 @@
       <b>📊 GitHub Stats</b>
       <br>
       <p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidCyrilTech&theme=tokyonight" width="45%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidCyrilTech&theme=tokyonight" width="45%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="100%">
+        <br /> 
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dc-dcdc&theme=tokyonight" width="100%">
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
