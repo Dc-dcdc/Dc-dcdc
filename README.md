@@ -8,6 +8,9 @@
       <p>
         - 🔭 **Current Focus**: Diffusion Policy & MuJoCo Simulation
       </p>
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi,+I'm+Your+Name+👋;Robotics+%26+AI+Developer;Building+Diffusion+Policy...;Sim2Real+Enthusiast" alt="Typing   SVG" />
+      </div>
       <br />
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
