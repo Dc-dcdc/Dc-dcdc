@@ -11,9 +11,17 @@
       <br />
       <b>📊 GitHub Analytics</b>
       <br>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=radical&hide_border=true" alt="Dc-dcdc's Stats" />
-      </a>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      </picture>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square">
