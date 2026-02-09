@@ -2,7 +2,7 @@
   <!-- <tr> -->
     <td width="57.5%" valign="top">
       <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:EE4C2C&height=230&text=Hi,%20I'm%20DC&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20AI%20Researcher&descAlignY=65&descSize=20" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:EE4C2C&height=220&text=Hi,%20I'm%20DC&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20AI%20Researcher&descAlignY=65&descSize=20" width="100%" />
       </div>
       <!-- <p>
         🔭 <b>Current Focus</b>: Diffusion Policy & MuJoCo Simulation
