@@ -1,7 +1,9 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h1>Hi, I'm DC 👋</h1>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:EE4C2C&height=180&text=Hi,%20I'm%20DC&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20AI%20Researcher&descAlignY=65&descSize=20" width="100%" />
+      </div>
       <p>
         <b>🤖 Robotics Engineer | 🧠 AI Researcher</b>
       </p>
