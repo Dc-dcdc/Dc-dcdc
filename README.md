@@ -24,7 +24,7 @@
       </p> -->
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="./assets/my-favorite-image2.png" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+      <img src="./assets/my-favorite-image2.png" width="100%" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
     </td>
   </tr>
 </table>
