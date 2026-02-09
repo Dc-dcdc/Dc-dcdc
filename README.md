@@ -1,29 +1,28 @@
-# Hi there, I'm [DC] 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello,+World!;I'm+a+Robotics+Engineer;Developing+Diffusion+Policy...;Loving+MuJoCo+Simulation!" alt="Typing SVG" />
+</div>
 
-> 🤖 **Robotics & AI Researcher** | Focus on Imitation Learning & Sim2Real
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/你的用户名)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:你的邮箱@gmail.com)
-
----
-
-### 🔭 Currently Working on
-- 🦾 **Diffusion Policy**: Implementing behavior cloning for robotic manipulation.
-- 🧊 **MuJoCo Simulation**: Building custom environments for robot training.
-- 🐍 **Sim2Real**: Transferring policies from simulation to real-world robots.
-
-### 🧰 Languages & Tools
-
-| Category | Stack |
-|Str|Str|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+<div align="center">
+  <h3>🚀 关于我 (About Me)</h3>
+  <p>正在研究机器人学习、强化学习与仿真环境。</p>
+</div>
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,linux,git,docker,vscode,github,bash,cmake&perline=10" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=你的GitHub用户名&color=blueviolet&style=flat-square&label=Profile+Views)
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=radical&hide_border=true&bg_color=0D1117" alt="streak graph" />
+</div>
