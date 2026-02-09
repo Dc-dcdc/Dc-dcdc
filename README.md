@@ -20,9 +20,6 @@
         <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/-Robotics-000000?logo=ros&logoColor=white&style=flat-square">
       </p>
-      <a href="mailto:你的邮箱@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge">
-      </a>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="./assets/my-favorite-image.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
