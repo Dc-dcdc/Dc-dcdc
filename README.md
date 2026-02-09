@@ -20,8 +20,8 @@
       </a>
     </td>
 
-    <td width="40%" align="center" valign="center">
-      <img src="./assets/photo.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-    </td>
+  <td width="40%" align="center" valign="center">
+      <img src="./assets/my-favorite-image.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+  </td>
   </tr>
 </table>
