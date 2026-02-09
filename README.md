@@ -13,14 +13,7 @@
 
 <br />
 
-### ⚡ About Me
-
-> 我是一名专注于强化学习与机器人仿真的开发者。
-> 喜欢在代码与现实的边界寻找平衡。
-
 - 🔭 **Current Focus**: Diffusion Policy & MuJoCo Simulation
-- 🌱 **Learning**: Sim2Real Transfer
-- 💬 **Ask me about**: Python, PyTorch, Robotics
 
 <br />
 
