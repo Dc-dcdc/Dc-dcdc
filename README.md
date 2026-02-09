@@ -2,7 +2,7 @@
   <tr>
     <td width="55%" valign="top">
       <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:EE4C2C&height=180&text=Hi,%20I'm%20DC&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20AI%20Researcher&descAlignY=65&descSize=20" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:EE4C2C&height=210&text=Hi,%20I'm%20DC&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20AI%20Researcher&descAlignY=65&descSize=20" width="80%" />
       </div>
       <!-- <p>
         🔭 <b>Current Focus</b>: Diffusion Policy & MuJoCo Simulation
@@ -11,9 +11,9 @@
       <b>📊 GitHub Stats</b>
       <!-- <br> -->
       <p align="Left">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="70%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="80%">
         <br /> 
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dc-dcdc&theme=tokyonight" width="70%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dc-dcdc&theme=tokyonight" width="80%">
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
