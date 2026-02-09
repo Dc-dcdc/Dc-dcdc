@@ -7,7 +7,7 @@
       <!-- <p>
         🔭 <b>Current Focus</b>: Diffusion Policy & MuJoCo Simulation
       </p> -->
-      <br />
+      <!-- <br /> -->
       <b>📊 GitHub Stats</b>
       <!-- <br> -->
       <p align="Left">
