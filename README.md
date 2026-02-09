@@ -12,7 +12,7 @@
       <b>📊 GitHub Stats</b>
       <br>
       <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=EE4C2C" alt="My Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=EE4C2C&random=1" alt="My Stats" width="100%" />
       </p>
       <br>
       <p>
