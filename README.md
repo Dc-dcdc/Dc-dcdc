@@ -8,7 +8,7 @@
       <p>
         - 🔭 **Current Focus**: Diffusion Policy & MuJoCo Simulation
       </p>
-      <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=Profile+Views&color=blueviolet&style=flat-square" />
+      <img src="https://komarev.com/ghpvc/?username=Dc-dcdc&label=Profile+Views&color=blueviolet&style=flat-square" />
       <br />
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
