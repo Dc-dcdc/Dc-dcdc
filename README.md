@@ -4,12 +4,12 @@
       <div align="center">
         <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:EE4C2C&height=180&text=Hi,%20I'm%20DC&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20AI%20Researcher&descAlignY=65&descSize=20" width="100%" />
       </div>
-      <p>
+      <!-- <p>
         🔭 <b>Current Focus</b>: Diffusion Policy & MuJoCo Simulation
-      </p>
+      </p> -->
       <br />
       <b>📊 GitHub Stats</b>
-      <br>
+      <!-- <br> -->
       <p align="Left">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="70%">
         <br /> 
