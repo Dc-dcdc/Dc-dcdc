@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/-Robotics-000000?logo=ros&logoColor=white&style=flat-square">
       </p> -->
     </td>
-    <td width="42%" align="center" >
+    <td width="42%" align="center" valign="top">
       <img src="./assets/my-favorite-image2.png" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
     </td>
   </tr>
