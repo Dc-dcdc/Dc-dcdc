@@ -8,16 +8,13 @@
       <p>
         🔭 <b>Current Focus</b>: Diffusion Policy & MuJoCo Simulation
       </p>
-<br />
-<b>📊 GitHub Stats</b>
-<br>
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=EE4C2C&locale=en&cache_seconds=1800&t=1" 
-    alt="Dc-dcdc's GitHub Stats" 
-    width="100%"
-  />
-</p>
+      <br />
+      <b>📊 GitHub Stats</b>
+      <br>
+      <p align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidCyrilTech&theme=tokyonight" width="45%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidCyrilTech&theme=tokyonight" width="45%">
+      </p>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square">
