@@ -5,9 +5,6 @@
         <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:EE4C2C&height=180&text=Hi,%20I'm%20DC&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20AI%20Researcher&descAlignY=65&descSize=20" width="100%" />
       </div>
       <p>
-        <b>🤖 Robotics Engineer | 🧠 AI Researcher</b>
-      </p>
-      <p>
         🔭 <b>Current Focus</b>: Diffusion Policy & MuJoCo Simulation
       </p>
       <br />
@@ -23,7 +20,6 @@
         <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/-Robotics-000000?logo=ros&logoColor=white&style=flat-square">
       </p>
-      <br />
       <a href="mailto:你的邮箱@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge">
       </a>
