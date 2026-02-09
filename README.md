@@ -30,3 +30,4 @@
   </td>
   </tr>
 </table>
+![Stats](https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=radical)
