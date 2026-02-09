@@ -9,12 +9,12 @@
       </p> -->
       <!-- <br /> -->
       <div align="center">
-      <b>📊 GitHub Stats</b>
+      <!-- <b>📊 GitHub Stats</b> -->
       <!-- <br> -->
       <img src="https://github-stats-alpha.vercel.app/api?username=Dc-dcdc&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
       <p align="centre">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="48%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dc-dcdc&theme=tokyonight" width="48%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dc-dcdc&theme=tokyonight" width="50%">
       </p>
       </div>
       <!-- <p>
