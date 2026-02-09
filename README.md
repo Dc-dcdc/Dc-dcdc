@@ -11,6 +11,8 @@
       <br />
       <b>📊 GitHub Analytics</b>
       <br>
+<img src="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=minimal&hide_border=true" width="100%">
+      <br>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square">
