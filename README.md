@@ -9,9 +9,11 @@
         🔭 <b>Current Focus</b>: Diffusion Policy & MuJoCo Simulation
       </p>
       <br />
-      <b>📊 GitHub Analytics</b>
+      <b>📊 GitHub Stats</b>
       <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=minimal&hide_border=true" width="100%">
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=EE4C2C" alt="My Stats" width="100%" />
+      </p>
       <br>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
