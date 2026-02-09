@@ -21,6 +21,7 @@
       <a href="mailto:你的邮箱@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge">
       </a>
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dc-dcdc)](https://github.com/anuraghazra/github-readme-stats)
     </td>
 
   <td width="40%" align="center" valign="center">
