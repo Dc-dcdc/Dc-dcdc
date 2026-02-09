@@ -11,7 +11,7 @@
       <br />
       <b>📊 GitHub Analytics</b>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=radical" width="100%" alt="My GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Dc-dcdc&show_icons=true&theme=radical" alt="My GitHub stats" width="100%" />
       <br>
       <br>
       <p>
@@ -20,12 +20,12 @@
         <img src="https://img.shields.io/badge/-Robotics-000000?logo=ros&logoColor=white&style=flat-square">
       </p>
       <br />
-      <a href="mailto:你的真实邮箱@gmail.com">
+      <a href="mailto:你的邮箱@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge">
       </a>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="./assets/my-favorite-image.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);" alt="Profile Pic">
+      <img src="./assets/my-favorite-image.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
     </td>
   </tr>
 </table>
