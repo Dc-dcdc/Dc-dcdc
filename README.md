@@ -30,6 +30,14 @@
     </td>
     <td width="42.5%" align="center" valign="top">
       <img src="./assets/my-favorite-image2.png" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+      <div align="center">
+        <p><strong>Robotics Projects</strong></p>
+        <p>
+          <a href="https://github.com/Dc-dcdc/av-aloha"><img src="https://img.shields.io/badge/AV--ALOHA-Robotics-7aa2f7?style=flat-square&amp;logo=github&amp;logoColor=a9b1d6&amp;labelColor=1a1b26" alt="AV-ALOHA robotics project" /></a>
+          <br />
+          <a href="https://github.com/Dc-dcdc/Moveit-Gazebo-for-yumi-ABB"><img src="https://img.shields.io/badge/ABB%20YuMi-MoveIt%20%2B%20Gazebo-bb9af7?style=flat-square&amp;logo=github&amp;logoColor=a9b1d6&amp;labelColor=1a1b26" alt="ABB YuMi simulation with MoveIt and Gazebo" /></a>
+        </p>
+      </div>
     </td>
   
   <!-- </tr> -->
