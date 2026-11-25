@@ -13,8 +13,8 @@
       <!-- <br> -->
       <img src="https://streak-stats.demolab.com?user=Dc-dcdc&amp;theme=tokyonight&amp;background=1A1B26&amp;hide_border=true&amp;border_radius=8&amp;card_width=495&amp;card_height=165" alt="GitHub total contributions and contribution streaks" width="99%" />
       <p align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Dc-dcdc&amp;theme=tokyonight&amp;bg_color=1a1b26&amp;hide_border=true&amp;border_radius=8&amp;layout=compact&amp;langs_count=4&amp;disable_animations=true&amp;custom_title=Top%20Languages" alt="Top languages in public, non-fork repositories" width="49%" />
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Dc-dcdc&amp;theme=tokyonight&amp;bg_color=1a1b26&amp;hide_border=true&amp;border_radius=8&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,contribs&amp;disable_animations=true&amp;custom_title=GitHub%20Stats" alt="GitHub commit, pull request, and issue statistics" width="49%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Dc-dcdc&amp;theme=tokyonight&amp;bg_color=1a1b26&amp;hide_border=true&amp;border_radius=8&amp;layout=compact&amp;langs_count=4&amp;disable_animations=true&amp;custom_title=Top%20Languages&amp;card_width=350" alt="Top languages in public, non-fork repositories" width="49%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Dc-dcdc&amp;theme=tokyonight&amp;bg_color=1a1b26&amp;hide_border=true&amp;border_radius=8&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,contribs&amp;disable_animations=true&amp;custom_title=GitHub%20Stats&amp;card_width=350" alt="GitHub commit, pull request, and issue statistics" width="49%" />
       </p>
       </div>
       <!-- <p>
