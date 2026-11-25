@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="52" viewBox="0 0 340 52" role="img" aria-labelledby="title">
+  <title id="title">ABB YuMi — MoveIt + Gazebo simulation</title>
+  <rect x=".5" y=".5" width="339" height="51" rx="10" fill="#1a1b26" stroke="#303449"/>
+  <rect x="7" y="7" width="42" height="38" rx="8" fill="#362b50"/>
+  <g transform="translate(0 2)" stroke="#bb9af7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="m24 13 10 6v12l-10 6-10-6V19z M14 19l10 6 10-6M24 25v12"/><path d="M37 15h5v5m-1-4-5 5"/></g>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="60" y="21" fill="#e0e6fb" font-size="15" font-weight="700">ABB YuMi</text>
+    <text x="60" y="37" fill="#a9b1d6" font-size="11">MoveIt + Gazebo simulation</text>
+  </g>
+  <path d="M315 20h9v9m0-9-11 11" fill="none" stroke="#bb9af7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
