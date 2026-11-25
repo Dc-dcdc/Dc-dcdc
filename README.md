@@ -31,7 +31,7 @@
     <td width="42.5%" align="center" valign="top">
       <img src="./assets/my-favorite-image2.png" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
       <div align="center">
-        <img src="./assets/robot-arm-motion.svg" width="100%" alt="Robotic arm in motion" />
+        <img src="./assets/robot-pick-and-place.svg" width="100%" alt="Robotic arm moving a cube between two trays" />
       </div>
     </td>
   
