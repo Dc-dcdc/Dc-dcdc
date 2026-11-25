@@ -1,0 +1,96 @@
+name: Refresh GitHub stars card
+
+on:
+  schedule:
+    - cron: '23 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/profile-stars.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stars
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+      - name: Fetch public repository stars and render the card
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: |
+          stars_file="$(mktemp)"
+          trap 'rm -f "$stars_file"' EXIT
+          gh api --paginate "users/$PROFILE_OWNER/repos?type=owner&per_page=100" \
+            --jq '.[] | select(.private == false) | [.name, .stargazers_count] | @tsv' > "$stars_file"
+          python3 - "$stars_file" assets/profile-stars.svg <<'PY'
+          from pathlib import Path
+          import sys
+          from xml.sax.saxutils import escape
+
+          repositories = []
+          for line in Path(sys.argv[1]).read_text(encoding="utf-8").splitlines():
+              name, stars = line.split("\t")
+              repositories.append((name, int(stars)))
+
+          total = sum(stars for _, stars in repositories)
+          ranked = sorted(repositories, key=lambda repo: (-repo[1], repo[0].casefold()))
+          leaders = [repo for repo in ranked if repo[1] > 0][:3]
+          colors = ["#7aa2f7", "#9ece6a", "#bb9af7"]
+          total_label = f"{total:,}"
+          total_size = min(43, 152 // len(total_label))
+
+          svg = [
+              '<svg xmlns="http://www.w3.org/2000/svg" width="490" height="192" viewBox="0 0 490 192" role="img" aria-labelledby="title description">',
+              '<title id="title">GitHub Stars</title>',
+              f'<desc id="description">{total_label} stars across public repositories. '
+              + escape(", ".join(f"{name}: {stars:,}" for name, stars in leaders)) + '</desc>',
+              '<rect x=".5" y=".5" width="489" height="191" rx="12" fill="#1a1b26" stroke="#303449"/>',
+              '<path d="M32 18l2.8 6.4 6.9.6-5.2 4.6 1.5 6.8-6-3.5-6 3.5 1.5-6.8-5.2-4.6 6.9-.6z" fill="#e6c384"/>',
+              '<g font-family="Verdana, Geneva, sans-serif" fill="#e0e6fb">',
+              '<text x="50" y="35" font-size="18" font-weight="700">GitHub Stars</text>',
+              f'<text x="21" y="111" font-size="{total_size}" font-weight="700" fill="#e6c384">{total_label}</text>',
+              '<text x="22" y="137" font-size="14" font-weight="700">Total stars</text>',
+              '<text x="22" y="159" font-size="11" fill="#a9b1d6">Public repositories</text>',
+              '<path d="M162 59v107" stroke="#34374d"/>',
+          ]
+          if not leaders:
+              svg.append('<text x="183" y="111" font-size="13" fill="#a9b1d6">No stars yet</text>')
+
+          for index, (name, stars) in enumerate(leaders):
+              y = 64 + index * 41
+              short_name = name if len(name) <= 22 else name[:21] + "…"
+              bar_width = 282 * stars / leaders[0][1]
+              svg.extend([
+                  f'<text x="183" y="{y + 9}" font-size="13" font-weight="700">{escape(short_name)}</text>',
+                  f'<text x="465" y="{y + 9}" text-anchor="end" font-size="13" font-weight="700">{stars:,}</text>',
+                  f'<rect x="183" y="{y + 19}" width="282" height="6" rx="3" fill="#30344a"/>',
+                  f'<rect x="183" y="{y + 19}" width="{bar_width:.2f}" height="6" rx="3" fill="{colors[index]}"/>',
+              ])
+
+          svg.extend(["</g>", "</svg>"])
+          Path(sys.argv[2]).write_text("\n".join(svg) + "\n", encoding="utf-8")
+          PY
+      - name: Commit the updated card
+        shell: bash
+        run: |
+          git add assets/profile-stars.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh GitHub stars card'
+          git push origin HEAD:main
