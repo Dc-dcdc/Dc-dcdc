@@ -11,10 +11,10 @@
       <div align="center">
       <!-- <b>📊 GitHub Stats</b> -->
       <!-- <br> -->
-      <img src="https://github-stats-alpha.vercel.app/api?username=Dc-dcdc&cc=000&tc=fff&ic=fff&bc=000" alt="Stats" width="99%">
-      <p align="centre">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dc-dcdc&theme=tokyonight" width="49%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dc-dcdc&theme=tokyonight" width="49%">
+      <img src="https://streak-stats.demolab.com?user=Dc-dcdc&amp;theme=tokyonight&amp;background=1A1B26&amp;hide_border=true&amp;border_radius=8&amp;card_width=495&amp;card_height=165" alt="GitHub total contributions and contribution streaks" width="99%" />
+      <p align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Dc-dcdc&amp;theme=tokyonight&amp;bg_color=1a1b26&amp;hide_border=true&amp;border_radius=8&amp;layout=compact&amp;langs_count=4&amp;disable_animations=true&amp;custom_title=Top%20Languages" alt="Top languages in public, non-fork repositories" width="49%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Dc-dcdc&amp;theme=tokyonight&amp;bg_color=1a1b26&amp;hide_border=true&amp;border_radius=8&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,contribs&amp;disable_animations=true&amp;custom_title=GitHub%20Stats" alt="GitHub commit, pull request, and issue statistics" width="49%" />
       </p>
       </div>
       <!-- <p>
