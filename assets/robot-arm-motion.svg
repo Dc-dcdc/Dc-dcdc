@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="132" viewBox="0 0 340 132" role="img" aria-labelledby="title desc">
+  <title id="title">Robotic arm in motion</title>
+  <desc id="desc">A blue and violet robotic arm sweeps through its workspace.</desc>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .shoulder { transform-origin: 147px 103px; animation: shoulder 7s ease-in-out infinite; }
+      .elbow { transform-origin: 123px 52px; animation: elbow 7s ease-in-out infinite; }
+      .wrist { transform-origin: 178px 37px; animation: wrist 7s ease-in-out infinite; }
+      @keyframes shoulder { 0%,100% { transform: rotate(0deg); } 35% { transform: rotate(21deg); } 68% { transform: rotate(8deg); } }
+      @keyframes elbow { 0%,100% { transform: rotate(0deg); } 35% { transform: rotate(29deg); } 68% { transform: rotate(-8deg); } }
+      @keyframes wrist { 0%,100% { transform: rotate(0deg); } 35% { transform: rotate(-27deg); } 68% { transform: rotate(14deg); } }
+    }
+  </style>
+  <defs>
+    <pattern id="grid" width="14" height="14" patternUnits="userSpaceOnUse">
+      <path d="M14 0H0v14" fill="none" stroke="#30344a" stroke-width=".7"/>
+    </pattern>
+    <linearGradient id="glow" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#252940"/>
+      <stop offset="1" stop-color="#1a1b26"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="339" height="131" rx="10" fill="url(#glow)" stroke="#303449"/>
+  <rect x="12" y="12" width="316" height="108" rx="5" fill="url(#grid)"/>
+  <path d="M43 39v-9h9m236 0h9v9M43 93v9h9m236 0h9v-9" fill="none" stroke="#50577a" stroke-width="1.2"/>
+  <path d="M77 110h186" stroke="#434a66" stroke-width="1" stroke-dasharray="2 4"/>
+  <path d="M189 28a66 66 0 0 1 45 51" fill="none" stroke="#8274b3" stroke-opacity=".6" stroke-dasharray="3 5"/>
+  <circle cx="234" cy="79" r="3" fill="#bb9af7" fill-opacity=".55"/>
+  <path d="M230 109v-9l8-4 8 4v9m-16-9 8 4 8-4m-8 4v5" fill="none" stroke="#655889" stroke-width="1.2" stroke-linejoin="round"/>
+  <rect x="120" y="105" width="54" height="8" rx="3" fill="#323955" stroke="#525e86"/>
+  <g class="shoulder">
+    <path d="M147 103 123 52" fill="none" stroke="#131622" stroke-width="14" stroke-linecap="round"/>
+    <path d="M147 103 123 52" fill="none" stroke="#7aa2f7" stroke-width="8" stroke-linecap="round"/>
+    <g class="elbow">
+      <path d="M123 52 178 37" fill="none" stroke="#131622" stroke-width="12" stroke-linecap="round"/>
+      <path d="M123 52 178 37" fill="none" stroke="#a1baff" stroke-width="6" stroke-linecap="round"/>
+      <g class="wrist">
+        <path d="M178 37l12 8m0-6 7 5 0 5m-10 1 7 5 5-1" fill="none" stroke="#bb9af7" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="178" cy="37" r="4" fill="#1a1b26" stroke="#bb9af7" stroke-width="1.6"/>
+      </g>
+    </g>
+    <circle cx="123" cy="52" r="6" fill="#20263a" stroke="#c1cdff" stroke-width="2"/>
+  </g>
+  <circle cx="147" cy="103" r="6" fill="#232a40" stroke="#7aa2f7" stroke-width="2"/>
+</svg>
