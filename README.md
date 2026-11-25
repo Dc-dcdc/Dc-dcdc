@@ -33,9 +33,9 @@
       <div align="center">
         <p><strong>Robotics Projects</strong></p>
         <p>
-          <a href="https://github.com/Dc-dcdc/av-aloha"><img src="https://img.shields.io/badge/AV--ALOHA-Robotics-7aa2f7?style=flat-square&amp;logo=github&amp;logoColor=a9b1d6&amp;labelColor=1a1b26" alt="AV-ALOHA robotics project" /></a>
+          <a href="https://github.com/Dc-dcdc/av-aloha"><img src="./assets/project-av-aloha.svg" width="100%" alt="AV-ALOHA — Bimanual robot learning" /></a>
           <br />
-          <a href="https://github.com/Dc-dcdc/Moveit-Gazebo-for-yumi-ABB"><img src="https://img.shields.io/badge/ABB%20YuMi-MoveIt%20%2B%20Gazebo-bb9af7?style=flat-square&amp;logo=github&amp;logoColor=a9b1d6&amp;labelColor=1a1b26" alt="ABB YuMi simulation with MoveIt and Gazebo" /></a>
+          <a href="https://github.com/Dc-dcdc/Moveit-Gazebo-for-yumi-ABB"><img src="./assets/project-abb-yumi.svg" width="100%" alt="ABB YuMi — MoveIt and Gazebo simulation" /></a>
         </p>
       </div>
     </td>
