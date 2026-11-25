@@ -18,7 +18,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/Dc-dcdc?tab=repositories&amp;sort=stargazers">
-          <img src="https://img.shields.io/github/stars/Dc-dcdc?affiliations=OWNER&amp;style=for-the-badge&amp;label=Stars%20Earned&amp;logo=github&amp;logoColor=a9b1d6&amp;labelColor=1a1b26&amp;color=7aa2f7" alt="Stars earned across public GitHub repositories" />
+          <img src="./assets/profile-stars.svg" alt="GitHub stars leaderboard for public repositories" width="99%" />
         </a>
       </p>
       </div>
