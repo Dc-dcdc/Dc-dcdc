@@ -31,12 +31,7 @@
     <td width="42.5%" align="center" valign="top">
       <img src="./assets/my-favorite-image2.png" width="100%" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
       <div align="center">
-        <p><strong>Robotics Projects</strong></p>
-        <p>
-          <a href="https://github.com/Dc-dcdc/av-aloha"><img src="./assets/project-av-aloha.svg" width="100%" alt="AV-ALOHA — Bimanual robot learning" /></a>
-          <br />
-          <a href="https://github.com/Dc-dcdc/Moveit-Gazebo-for-yumi-ABB"><img src="./assets/project-abb-yumi.svg" width="100%" alt="ABB YuMi — MoveIt and Gazebo simulation" /></a>
-        </p>
+        <img src="./assets/robot-arm-motion.svg" width="100%" alt="Robotic arm in motion" />
       </div>
     </td>
   
