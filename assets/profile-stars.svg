@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="192" viewBox="0 0 490 192" role="img" aria-labelledby="title description">
+<title id="title">GitHub Stars</title>
+<desc id="description">79 stars across public repositories. diffusion_policy: 51, FL-LDP: 27, PS-DFL: 1</desc>
+<rect x=".5" y=".5" width="489" height="191" rx="12" fill="#1a1b26" stroke="#303449"/>
+<path d="M32 18l2.8 6.4 6.9.6-5.2 4.6 1.5 6.8-6-3.5-6 3.5 1.5-6.8-5.2-4.6 6.9-.6z" fill="#e6c384"/>
+<g font-family="Verdana, Geneva, sans-serif" fill="#e0e6fb">
+<text x="50" y="35" font-size="18" font-weight="700">GitHub Stars</text>
+<text x="21" y="111" font-size="43" font-weight="700" fill="#e6c384">79</text>
+<text x="22" y="137" font-size="14" font-weight="700">Total stars</text>
+<text x="22" y="159" font-size="11" fill="#a9b1d6">Public repositories</text>
+<path d="M162 59v107" stroke="#34374d"/>
+<text x="183" y="73" font-size="13" font-weight="700">diffusion_policy</text>
+<text x="465" y="73" text-anchor="end" font-size="13" font-weight="700">51</text>
+<rect x="183" y="83" width="282" height="6" rx="3" fill="#30344a"/>
+<rect x="183" y="83" width="282.00" height="6" rx="3" fill="#7aa2f7"/>
+<text x="183" y="114" font-size="13" font-weight="700">FL-LDP</text>
+<text x="465" y="114" text-anchor="end" font-size="13" font-weight="700">27</text>
+<rect x="183" y="124" width="282" height="6" rx="3" fill="#30344a"/>
+<rect x="183" y="124" width="149.29" height="6" rx="3" fill="#9ece6a"/>
+<text x="183" y="155" font-size="13" font-weight="700">PS-DFL</text>
+<text x="465" y="155" text-anchor="end" font-size="13" font-weight="700">1</text>
+<rect x="183" y="165" width="282" height="6" rx="3" fill="#30344a"/>
+<rect x="183" y="165" width="5.53" height="6" rx="3" fill="#bb9af7"/>
+</g>
+</svg>
