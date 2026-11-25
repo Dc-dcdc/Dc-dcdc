@@ -16,6 +16,11 @@
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Dc-dcdc&amp;theme=tokyonight&amp;bg_color=1a1b26&amp;hide_border=true&amp;border_radius=8&amp;layout=compact&amp;langs_count=4&amp;disable_animations=true&amp;custom_title=Top%20Languages&amp;card_width=350" alt="Top languages in public, non-fork repositories" width="49%" />
         <img src="https://github-readme-stats-fast.vercel.app/api?username=Dc-dcdc&amp;theme=tokyonight&amp;bg_color=1a1b26&amp;hide_border=true&amp;border_radius=8&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,contribs&amp;disable_animations=true&amp;custom_title=GitHub%20Stats&amp;card_width=350" alt="GitHub commit, pull request, and issue statistics" width="49%" />
       </p>
+      <p align="center">
+        <a href="https://github.com/Dc-dcdc?tab=repositories&amp;sort=stargazers">
+          <img src="https://img.shields.io/github/stars/Dc-dcdc?affiliations=OWNER&amp;style=for-the-badge&amp;label=Stars%20Earned&amp;logo=github&amp;logoColor=a9b1d6&amp;labelColor=1a1b26&amp;color=7aa2f7" alt="Stars earned across public GitHub repositories" />
+        </a>
+      </p>
       </div>
       <!-- <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
